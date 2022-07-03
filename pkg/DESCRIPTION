@@ -1,0 +1,12 @@
+Package: rmdmanager
+Type: Package
+Title: Rmarkdown management toolkit
+Version: 0.1.0
+Author: Robert A. Payn
+Maintainer: Rob Payn <robpayn@gmail.com>
+Description: A few tools for managing R markdown and automating documents
+License: MIT License
+Encoding: UTF-8
+LazyData: true
+Imports: R6
+RoxygenNote: 7.2.0
