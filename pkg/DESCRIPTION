@@ -1,7 +1,7 @@
 Package: rmdmanager
 Type: Package
 Title: Rmarkdown management toolkit
-Version: 0.1.0
+Version: 0.1.1
 Author: Robert A. Payn
 Maintainer: Rob Payn <robpayn@gmail.com>
 Description: A few tools for managing R markdown and automating documents
