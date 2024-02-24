@@ -25,7 +25,8 @@ An R6 class for the management of comments. Includes option for checking
   commentCount = 0,
   author = "Anonymous",
   timeDefault = "1970-01-01T00:00:00Z",
-  checkWord = TRUE
+  checkWord = TRUE,
+  markup = TRUE
 )}\if{html}{\out{</div>}}
 }
 

@@ -89,11 +89,11 @@ FigureManager <- R6Class(
     ## FigureManager.catMarkdownAll() ####
 
     catMarkdownAll = function(
-    newpage = TRUE,
-    as.string = FALSE,
-    type = c("output", "message"),
-    split = FALSE,
-    md.heading = "##"
+      newpage = TRUE,
+      as.string = FALSE,
+      type = c("output", "message"),
+      split = FALSE,
+      md.heading = "##"
     )
     {
       if (as.string) {
